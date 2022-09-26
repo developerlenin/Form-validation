@@ -1,0 +1,15 @@
+body{
+
+}
+.form-items{
+	text-align:center;
+}
+.form-box {
+	padding:10px 0px;
+}
+.form-box input{
+	margin: 0px 10px;
+}
+.form-box lable{
+	display:block;
+}
